@@ -1,0 +1,35 @@
+year: 2023
+country: AU
+jurisdictions:
+  - code: VIC
+    name: Victoria
+    source: https://business.vic.gov.au/business-information/public-holidays
+    holidays:
+      - date: 20230101
+        name: New Year's Day
+      - date: 20230102
+        name: New Year's Day (observed)
+      - date: 20230126
+        name: Australia Day
+      - date: 20230313
+        name: Labour Day
+      - date: 20230407
+        name: Good Friday
+      - date: 20230408
+        name: Saturday before Easter Sunday
+      - date: 20230409
+        name: Easter Sunday
+      - date: 20230410
+        name: Easter Monday
+      - date: 20230425
+        name: ANZAC Day
+      - date: 20230612
+        name: King's Birthday
+      - date: 20230929
+        name: Friday before the AFL Grand Final
+      - date: 20231107
+        name: Melbourne Cup
+      - date: 20231225
+        name: Christmas Day
+      - date: 20231226
+        name: Boxing Day
