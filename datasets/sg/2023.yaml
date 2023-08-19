@@ -1,0 +1,35 @@
+year: 2023
+country: sg
+jurisdictions:
+  - code: sg
+    name: Singapore
+    source: https://www.mom.gov.sg/employment-practices/public-holidays
+    holidays:
+      - date: 20230101
+        name: New Year's Day
+      - date: 20230102
+        name: New Year's Day (observed)
+      - date: 20230122
+        name: Chinese New Year
+      - date: 20230123
+        name: Chinese New Year
+      - date: 20230124
+        name: Chinese New Year (observed)
+      - date: 20230407
+        name: Good Friday
+      - date: 20230422
+        name: Hari Raya Puasa
+      - date: 20230501
+        name: Labour Day
+      - date: 20230602
+        name: Vesak Day
+      - date: 20230629
+        name: Hari Raya Haji
+      - date: 20230809
+        name: National Day
+      - date: 20231112
+        name: Deepavali
+      - date: 20231112
+        name: Deepavali (observed)
+      - date: 20231225
+        name: Christmas Day
